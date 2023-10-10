@@ -1,0 +1,53 @@
+Applications 
+	accounts 
+	courses 
+	subscriptions 
+	blog 
+	core 
+	dashboard 
+
+Profile 
+	user 
+	phone 
+	country 
+	subscription 
+	is_available 
+	created  
+
+Category
+	name
+
+Course
+	author 
+	category 
+	title 
+	description 
+	price 
+	image 
+	instructor 
+	level 
+	language 
+	duration 
+	status 
+	bookmarks
+	is_available 
+	created 
+
+Lesson 
+	title 
+	description 
+	image 
+	video 
+	is_available 
+	created
+
+
+Subscription 
+	user 
+
+
+
+
+
+
+
